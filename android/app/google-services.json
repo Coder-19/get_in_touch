@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404290695625",
+    "project_id": "query-project-4784c",
+    "storage_bucket": "query-project-4784c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404290695625:android:f1db755a9e754931e37818",
+        "android_client_info": {
+          "package_name": "com.jasman.get_in_touch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404290695625-uhd5r3ql1prabl1nt7a956admnmuv19q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10a_Lcv16Oa-1btFS8QzBHcjc-drGg7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404290695625-uhd5r3ql1prabl1nt7a956admnmuv19q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
